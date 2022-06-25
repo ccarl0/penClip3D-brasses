@@ -21,4 +21,4 @@ I personally use a Creality Ender-3 with the following settings:
 - Fan Speed: 100%
 - Generate Support: Disabled X
 
-Of course, feel free to experiment with any other settings and to modify the original design.
+Of course, feel free to experiment with any other settings and modify the original design.
